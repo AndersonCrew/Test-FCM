@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077523311985",
+    "firebase_url": "https://fcmnetcoreapi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fcmnetcoreapi",
+    "storage_bucket": "fcmnetcoreapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077523311985:android:fdf4f2d669d06666c91ad0",
+        "android_client_info": {
+          "package_name": "com.vnso.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077523311985-sdlmff14vavlir04514jb78584rp0ucp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhTHAksYZcS2aTeuzZLjAO0vbVqAmIzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077523311985-sdlmff14vavlir04514jb78584rp0ucp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

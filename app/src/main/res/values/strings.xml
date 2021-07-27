@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test FCM</string>
+    <string name="default_notification_channel_id">Test FCM Chanel</string>
+    <string name="fcm_message">Test FCM Messagen Notification</string>
+</resources>
